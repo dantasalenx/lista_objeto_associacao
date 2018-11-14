@@ -1,0 +1,10 @@
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/bin/Debug/netcoreapp2.1/lista_objeto_associacao.deps.json
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/bin/Debug/netcoreapp2.1/lista_objeto_associacao.runtimeconfig.json
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/bin/Debug/netcoreapp2.1/lista_objeto_associacao.runtimeconfig.dev.json
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/bin/Debug/netcoreapp2.1/lista_objeto_associacao.dll
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/bin/Debug/netcoreapp2.1/lista_objeto_associacao.pdb
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/obj/Debug/netcoreapp2.1/lista_objeto_associacao.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/obj/Debug/netcoreapp2.1/lista_objeto_associacao.AssemblyInfoInputs.cache
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/obj/Debug/netcoreapp2.1/lista_objeto_associacao.AssemblyInfo.cs
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/obj/Debug/netcoreapp2.1/lista_objeto_associacao.dll
+/Users/aluno/Projects/lita_objeto_associacao/lita_objeto_associacao/obj/Debug/netcoreapp2.1/lista_objeto_associacao.pdb
